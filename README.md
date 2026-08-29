@@ -1,4 +1,4 @@
 # spider-man-
-this is my first git hub project
+This is my first git hub project
 <br>
-Author NAME : shruti pariwale 
+Author NAME : <b> Shruti Pariwale </b>
