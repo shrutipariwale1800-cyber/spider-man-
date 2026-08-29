@@ -1,2 +1,3 @@
 # spider-man-
-first re[po
+this is my first git hub project
+Author NAME : shruti pariwale 
